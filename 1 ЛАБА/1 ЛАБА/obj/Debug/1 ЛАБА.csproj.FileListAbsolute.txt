@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\bin\Debug\1 ЛАБА.exe.config
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\bin\Debug\1 ЛАБА.exe
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\bin\Debug\1 ЛАБА.pdb
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\1 ЛАБА.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\1 ЛАБА.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\_1_ЛАБА.Form1.resources
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\_1_ЛАБА.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\1 ЛАБА.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\1 ЛАБА.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\1 ЛАБА.exe
+C:\Users\Пользователь\source\repos\1 ЛАБА\1 ЛАБА\obj\Debug\1 ЛАБА.pdb
