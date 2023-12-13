@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\bin\Debug\1 лаба 2 часть.exe.config
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\bin\Debug\1 лаба 2 часть.exe
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\bin\Debug\1 лаба 2 часть.pdb
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\1 лаба 2 часть.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\1 лаба 2 часть.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\_1_лаба_2_часть.Form1.resources
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\_1_лаба_2_часть.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\1 лаба 2 часть.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\1 лаба 2 часть.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\1 лаба 2 часть.exe
+C:\Users\Пользователь\source\repos\1 лаба 2 часть\1 лаба 2 часть\obj\Debug\1 лаба 2 часть.pdb
